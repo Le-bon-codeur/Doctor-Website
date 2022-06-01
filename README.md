@@ -1,5 +1,6 @@
 # Doctor-Website
 Complete respponsive website using html css js php
 
-import DB with `./db/omnes_db.sql`  
-change data in `./model/config.ini`
+1. import DB with `./db/omnes_db.sql`  
+2. change data in `./model/config.ini`
+3. enjoy
